@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Work/eclipse-workspace/esp32_project/build/CMakeFiles/bootloader
+D:/Work/eclipse-workspace/esp32_project/build/CMakeFiles/bootloader.rule
+D:/Work/eclipse-workspace/esp32_project/build/CMakeFiles/bootloader-complete.rule
+D:/Work/eclipse-workspace/esp32_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Work/eclipse-workspace/esp32_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Work/eclipse-workspace/esp32_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Work/eclipse-workspace/esp32_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Work/eclipse-workspace/esp32_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Work/eclipse-workspace/esp32_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Work/eclipse-workspace/esp32_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
