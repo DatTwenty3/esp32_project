@@ -239,7 +239,7 @@ void app_main(void)
 
 static void periodic_timer_1ms_callback(void* arg)
 {
-	led_7_seg_application_1ms_elapsed();
+	led_7_seg_1ms_elapsed();
 	if(B_Up == 0)
 	{
 		Debound_Up ++;

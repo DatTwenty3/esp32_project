@@ -51,10 +51,10 @@ void led_7_seg_1ms_elapsed(){
 }
 
 void led_7_seg_application_1ms_elapsed(){
-	if (led_7_seg_ms - led_7_seg_ms_old == (led_7_period_ms/2)){
-		led_7_seg_ms_old = led_7_seg_ms;
-		led_7_seg_state = !led_7_seg_state;
-	}
+//	if (led_7_seg_ms - led_7_seg_ms_old == (led_7_period_ms/2)){
+//		led_7_seg_ms_old = led_7_seg_ms;
+//		led_7_seg_state = !led_7_seg_state;
+//	}
 	led_7_seg_display_number();
 }
 
